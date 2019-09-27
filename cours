@@ -1,1 +1,13 @@
 test
+
+git add
+git commit -m "Message"
+git commit -a
+
+git commit -amend -a
+
+git push -f //pour forcer le commit
+
+git push -u origin master
+
+git pull //pull les commits de laa branches
